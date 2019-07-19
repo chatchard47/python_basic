@@ -41,8 +41,8 @@ print (listsub3)
 listsub3.pop(3) #pop การลบตำแหน่งที่จุดนั้นๆออกไป
 print (listsub3)
 
-listsub3.clear() #clear การลบออกไป
+listsub3.clear() #clear การลบออกไปทั้งหมด
 print (listsub3)
 
-listsub3.remove("AAA") #extend คือเพิ่มตำแหน่งสุดท้ายของกลุ่ม List แบบแยก
-print (listsub3)
+#listsub3.remove("AAA") #extend คือเพิ่มตำแหน่งสุดท้ายของกลุ่ม List แบบแยก
+#print (listsub3)
